@@ -4,7 +4,7 @@ A Streamlit web app that helps recruiters (or job seekers) evaluate how well res
 
 Live Demo
 
-👉 [Click here to try the app](https://YOUR-STREAMLIT-URL.streamlit.app)  
+👉 [Click here to try the app](https://resume-scanner-mfbbvn3tzcdlraj5mxueiw.streamlit.app/)  
 
 Features
 
