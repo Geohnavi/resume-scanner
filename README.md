@@ -23,6 +23,7 @@ Tech Stack
 📂 Project Structure
 
 - Plaintext
+
 resume-scanner/
 ├── app.py               Main Streamlit app
 ├── ranker.py            Contains the resume ranking logic (TF-IDF + cosine similarity)
